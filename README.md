@@ -2,7 +2,11 @@
 
 
 - 🔭 Ainda não tenho nenhum emprego.
-- 🌱 Sei python. Desejo me tornar um especialista em Machine learning .
+- 🧠 hard-skills:
+- Python
+- Python Poo
+- My-sql
+- Pandas framework.
 - 📚 Estou cursando Análise e desenvolvimentos de sistemas.
 - 💬 Me pergunte alguma coisa ...
 
